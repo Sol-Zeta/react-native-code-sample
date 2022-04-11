@@ -1,0 +1,32 @@
+const DATA = {
+    arrowDropDown: require('../assets/icons/arrow-drop-down-3x.png'),
+    arrowDropUp: require('../assets/icons/arrow-drop-up-3x.png'),
+    arrowLeft: require('../assets/icons/arrow-left-3x.png'),
+    arrowRight: require('../assets/icons/arrow-right-3x.png'),
+    goBackModal: require('../assets/icons/goback.png'),
+    photoWhite: require('../assets/icons/photo-white-3x.png'),
+    photoBlack: require('../assets/icons/photo-black-3x.png'),
+    play: require('../assets/icons/play-line-3x.png'),
+    pause: require('../assets/icons/pause-line-3x.png'),
+    videoWhite: require('../assets/icons/video-white-3x.png'),
+    videoBlack: require('../assets/icons/video-black-3x.png'),
+    close: require('../assets/icons/close-3x.png'),
+    closeModal: require('../assets/icons/close-modal.png'),
+    email: require('../assets/icons/email3x.png'),
+    flash: require('../assets/icons/flash-3x.png'),
+    flip: require('../assets/icons/flip-3x.png'),
+    goback: require('../assets/icons/goback-arrow.png'),
+    gobackDark: require('../assets/icons/goback-arrow-white.png'),
+    password: require('../assets/icons/pass3x.png'),
+    facebook: require('../assets/icons/facebook3x.png'),
+    google: require('../assets/icons/google.png'),
+    list: require('../assets/icons/star-list.png'),
+    favoriteLine: require('../assets/icons/fav-line-3x.png'),
+    favoriteSolid: require('../assets/icons/fav-solid-2x.png'),
+    qrCode: require('../assets/icons/qr-code-3x.png'),
+    noPicture: require('../assets/images/icon.png'),
+    spinner: require('../assets/images/spinner/spinner.gif'),
+    watermark: require('../assets/icons/joy-water-mark.png')
+  } 
+
+export default DATA
