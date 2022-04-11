@@ -9,11 +9,17 @@
 - React Native
 - Typescript
 - Firebase
+- xCode
+- Android Studio
 
 <br>
 
 ### Manejo de _estados globales_ con:
 
 - Context API
+
+### Librería para desarrollar funcionalidades de _faceswap_:
+
+- expo-camera
 
 
